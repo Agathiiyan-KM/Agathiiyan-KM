@@ -4,7 +4,7 @@
 
 Final-year Bachelor of Information Technology (Hons) in Data Analytics student at UNITAR International University with a CGPA of 3.76.
 
-I am passionate about data analytics, business intelligence, data visualization, and big data technologies. I enjoy transforming raw data into meaningful insights that support data-driven decision-making.
+Interested in data analytics, business intelligence, data visualization, and big data technologies. Seeking opportunities to apply analytical skills and transform data into actionable business insights.
 
 ## Education
 
@@ -28,7 +28,7 @@ Expected Graduation: December 2026
 - Data Cleaning
 - Statistical Analysis
 
-## Academic Projects
+## Featured Projects
 
 ### Big Data Sales Analytics Using Hadoop and MapReduce
 - Processed e-commerce transaction data using Hadoop and HDFS.
